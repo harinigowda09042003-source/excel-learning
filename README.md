@@ -10,7 +10,7 @@ This repository contains my Excel practice files and notes.
  -Financial Functions
 
 📊 Excel Files
-📁 Excel_Functions 01.xlsx
+📁 Excel_Functions.xlsx
 Sheet 1: Mathematical Functions
 Sheet 2: Character and Text Functions
 
