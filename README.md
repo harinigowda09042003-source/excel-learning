@@ -9,14 +9,18 @@ This repository contains my Excel practice files and notes.
  -Date and Time Function
  -Financial Functions
 
-#Files:
-- Excel_Functions 01.xlsx
-          .Sheet 1: Mathematical Functions
-          .Sheet 2: Character and Text Functions
--  Excel_Functions 01.xlsx
-          .Sheet 1: Lookup's Function
-          .Sheet 2: If Functions
-          .Sheet 3: index Functions
+📊 Excel Files
+📁 Excel_Functions 01.xlsx
+Sheet 1: Mathematical Functions
+Sheet 2: Character and Text Functions
+
+📁 Excel_Functions 02.xlsx
+Sheet 1: Lookup's Function
+Sheet 2: If Functions
+Sheet 3: index Functions
+
+📁 Excel_Functions 03.xlsx
+Sheet 1: countif's and sumif's Function
 
  ## Purpose
 Learning Excel for Data Analyst fundamentals
