@@ -13,6 +13,10 @@ This repository contains my Excel practice files and notes.
 - Excel_Functions 01.xlsx
   - Sheet 1: Mathematical Functions
   - Sheet 2: Character and Text Functions
+-  Excel_Functions 01.xlsx
+  - Sheet 1: Lookup's Function
+  - Sheet 2: If Functions
+  - Sheet 3: index Functions
 
  ## Purpose
 Learning Excel for Data Analyst fundamentals
