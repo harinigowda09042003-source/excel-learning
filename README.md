@@ -25,6 +25,8 @@ This repository contains my Excel practice files and notes.
 📁 Excel_Functions 03.xlsx
     Sheet 1: countif's and sumif's Function
 
+📁 Excel_Functions 04.xlsx
+    Sheet 1: Date and Time Function
 
 
  ## Purpose
