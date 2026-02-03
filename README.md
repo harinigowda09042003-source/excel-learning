@@ -9,7 +9,6 @@ This repository contains my Excel practice files and notes.
  -Advanced Functions
  -Sumif and Countif Functions
  -Date and Time Function
- -Financial Functions
 
 📊 Excel Files
 
