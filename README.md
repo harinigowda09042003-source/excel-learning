@@ -1,7 +1,9 @@
 # excel-learning
+
 This repository contains my Excel practice files and notes.
 
 # TOPICS COVERED
+
  -Mathematical Functions
  -Char Text Functions
  -Advanced Functions
@@ -10,17 +12,20 @@ This repository contains my Excel practice files and notes.
  -Financial Functions
 
 📊 Excel Files
+
 📁 Excel_Functions.xlsx
-Sheet 1: Mathematical Functions
-Sheet 2: Character and Text Functions
+    Sheet 1: Mathematical Functions
+    Sheet 2: Character and Text Functions
 
 📁 Excel_Functions 02.xlsx
-Sheet 1: Lookup's Function
-Sheet 2: If Functions
-Sheet 3: index Functions
+    Sheet 1: Lookup's Function
+    Sheet 2: If Functions
+    Sheet 3: index Functions
 
 📁 Excel_Functions 03.xlsx
-Sheet 1: countif's and sumif's Function
+    Sheet 1: countif's and sumif's Function
+
+
 
  ## Purpose
 Learning Excel for Data Analyst fundamentals
