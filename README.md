@@ -1,17 +1,29 @@
 # excel-learning
-
-This repository contains my Excel practice files and notes.
+This repository contains my Excel practice files and analysis projects focused on building strong foundations for a Data Analyst role.
 
 # TOPICS COVERED
+- Mathematical Functions
+- Text & Character Functions
+- Lookup Functions (VLOOKUP, INDEX, MATCH)
+- IF Functions
+- COUNTIF & SUMIF Functions
+- Date & Time Functions
+- Financial Functions
+- Pivot Tables
+- Data Visualization using Charts
 
- -Mathematical Functions
- -Char Text Functions
- -Advanced Functions
- -Sumif and Countif Functions
- -Date and Time Function
+## Excel Projects
+### 📊 Pizza Sales & Delivery Analysis
+- Created PivotTables to analyze order patterns and customer preferences
+- Built Column, Bar, Line, Pie, and Combo charts
+- Analyzed:
+  - Most ordered pizza types
+  - Popular pizza sizes
+  - Monthly order trends
+  - Payment method preferences
+  - Impact of distance on delivery duration and delays
 
 📊 Excel Files
-
 📁 Excel_Functions.xlsx
     Sheet 1: Mathematical Functions
     Sheet 2: Character and Text Functions
@@ -29,4 +41,4 @@ This repository contains my Excel practice files and notes.
 
 
  ## Purpose
-Learning Excel for Data Analyst fundamentals
+To practice Excel skills and demonstrate data analysis, visualization, and business insights using real-world style datasets.
