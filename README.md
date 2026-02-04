@@ -22,6 +22,7 @@ This repository contains my Excel practice files and analysis projects focused o
   - Monthly order trends
   - Payment method preferences
   - Impact of distance on delivery duration and delays
+This project demonstrates my ability to convert raw operational data into actionable business insights using Excel.
 
 📊 Excel Files
 📁 Excel_Functions.xlsx
